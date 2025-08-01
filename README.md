@@ -27,4 +27,5 @@ O objetivo deste projeto é:
 
 ## 🧱 Estrutura do Projeto
 
-<img width="910" height="509" alt="image" src="https://github.com/user-attachments/assets/99724bbc-90c7-4b2e-af3e-e358bc0732c2" />
+<img width="1437" height="780" alt="image" src="https://github.com/user-attachments/assets/80d4ab38-cbe5-4016-9669-d90526693217" />
+
